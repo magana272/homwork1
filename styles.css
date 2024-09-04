@@ -1,0 +1,19 @@
+img{
+  width: 200px;
+  float:left;
+  object-fit: contain;
+  margin: 0%;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.image_and_why{
+  float:left;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
